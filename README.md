@@ -16,7 +16,7 @@
 
 ### 🏠 [Homepage](https://startbootstrap.com/themes/resume/)
 
-### ✨ [Demo](raihan.my.id)
+### ✨ [Demo](https://raihan.my.id)
 
 ## Preview
 
