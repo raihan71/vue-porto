@@ -20,7 +20,6 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
 <small> Recreate from <a href="https://startbootstrap.com/previews/resume">Resume bootstrap template</a>.</small>
 
 ## Install
